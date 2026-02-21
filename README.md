@@ -4,8 +4,8 @@
 ---
 
 🚀 Passionate about building **clean, user-friendly web interfaces**  
-🌱 Currently learning **Advanced JavaScript & React**  
-🎯 Goal: Become a **Full Stack Developer**  
+🌱 Currently learning **JavaScript & React**  
+🎯 Goal: Become a **JAVA Full Stack Developer**  
 📍 India  
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: **YOUR_EMAIL@gmail.com**
+- 📧 Email: **deepak0002ky@gmail.com**
 
 ---
 
