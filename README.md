@@ -28,7 +28,7 @@
 
 ### 📂 Projects
 👉 Check out my work here:  
-🔗 https://github.com/YOUR_GITHUB_USERNAME
+🔗 https://github.com/Deepakyadav72
 
 ---
 
