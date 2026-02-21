@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
+<h3 align="center">Frontend Developer | React & JavaScript Enthusiast 🇮🇳</h3>
 
-<!--
-**Deepakyadav72/Deepakyadav72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Passionate about building **clean, user-friendly web interfaces**  
+🌱 Currently learning **Advanced JavaScript & React**  
+🎯 Goal: Become a **Full Stack Developer**  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🔭 Working on **real-world frontend projects**
+- ⚡ Strong foundation in **HTML, CSS & JavaScript**
+- 🧩 Hands-on experience with **React & Redux**
+- 📚 Exploring backend & full stack concepts
+- 💡 I learn best by **building & fixing things**
+
+---
+
+### 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,github,vscode" />
+</p>
+
+---
+
+### 📂 Projects
+👉 Check out my work here:  
+🔗 https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **YOUR_EMAIL@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Consistency beats talent when talent doesn’t stay consistent* ✨
