@@ -1,6 +1,5 @@
 
-![istockphoto](https://github.com/user-attachments/assets/7fd7acd5-b571-4a36-84e5-838081c7714f)
-
+![istockphoto](https://github.com/user-attachments/assets/7fd7acd5-b571-4a36-84e5-838081c7714f) width="100%" 
 
 
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
