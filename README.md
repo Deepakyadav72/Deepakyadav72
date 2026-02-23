@@ -35,7 +35,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **deepak0002ky@gmail.com**
--  LinkedIn: **www.linkedin.com/in/deepak-4b639a254 **
+-  LinkedIn: **www.linkedin.com/in/deepak-4b639a254**
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
