@@ -1,18 +1,4 @@
 <img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/df1dacbb-440d-449f-9488-817ff3fa1f4a" />
-
-
-
-
-
-
-<img 
-  src="<img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/0722160f-3aa5-4b9b-a2a7-4733d329ebb4" />" 
-  alt="coding" 
-  width="100%" 
-  height="250"
-/> 
-
-
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">Frontend Developer | React & JavaScript | Learnig JAVA FULLSTACK DEV</h3>
 
@@ -49,8 +35,8 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **deepak0002ky@gmail.com**
+-  LinkedIn: **www.linkedin.com/in/deepak-4b639a254 **
 
---
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
